@@ -1,5 +1,6 @@
-<h3 align="center"> Hi there 👋 </h3>
-
+<h3 align="left"> Hi, I`m Simon 👋, </h3>
+<span align="left">a software engineer ⛏️, working on open-source and [writing](https://www.simonbliznyuk.com) about my vision to web-development.🧾</span>
+<span align="left">I'm always open to a collaboration. Feel free to email me at **cooperatewithsimon@gmail.com** </span>
 <!--
 **semaphore8/semaphore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
