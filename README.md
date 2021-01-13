@@ -1,5 +1,5 @@
 ### Hi, I`m Simon 👋
-A free-time software engineer ⛏️, working on open-source and writing about my vision to web-development🧾
+A software engineer ⛏️, working on open-source and writing about my vision to web-development🧾
 
 If you are interested in articles and guides about modern web-dev, you can visit [**my blog**](https://www.simonbliznyuk.com)
 
