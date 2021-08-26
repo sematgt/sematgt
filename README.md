@@ -1,6 +1,6 @@
 ### Hi, I`m Simon 👋
-A software engineer ⛏️, working on open-source and writing about my vision to web-development🧾
+A front-end/backend JS engineer from Moscow. 
 
-If you are interested in articles and guides about modern web-dev, you can visit [**my blog**](https://www.simonbliznyuk.com)
+Currently I'm focused on BIM and digital twin technologies development. Also I'm engaged in developing smart city and map services.
 
 I'm always open to a collaboration. Feel free to email me at **cooperatewithsimon@gmail.com** 
